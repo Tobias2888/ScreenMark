@@ -5,5 +5,5 @@ Lets you draw Boxes on Screen
 Currently no built-in shotcut-support. You have to make a custom shortcut on your system, wich executes this program.
 
 ## Shotcuts
-Ctrl + Z: Undo last Box
-Ctrl + Y: Redo last Undo
+- Ctrl + Z: Undo last Box
+- Ctrl + Y: Redo last Undo
